@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/wobot/static/css/main.9d5ecad3.css",
+    "main.js": "/wobot/static/js/main.e177224f.js",
+    "static/media/header.jpg": "/wobot/static/media/header.5c5582e21cbcf3e66e32.jpg",
+    "index.html": "/wobot/index.html",
+    "main.9d5ecad3.css.map": "/wobot/static/css/main.9d5ecad3.css.map",
+    "main.e177224f.js.map": "/wobot/static/js/main.e177224f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9d5ecad3.css",
+    "static/js/main.e177224f.js"
+  ]
+}
