@@ -1,0 +1,88 @@
+.App {
+  .header {
+    margin: 1rem;
+    width: 12rem;
+    .img {
+      width: 12rem;
+      height: 3rem;
+    }
+  }
+
+  .home {
+    height: 80vh;
+    .main {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      width: 100vw;
+      height: 100%;
+
+      .FORM {
+        width: 35vw;
+        margin-top: 3rem;
+        text-align: center;
+
+        .LOGO {
+          margin-top: 1rem;
+          width: 6rem;
+          height: 1.5rem;
+        }
+        .light1 {
+          margin-top: 1rem;
+          opacity: 0.5;
+        }
+        .light2 {
+          margin-top: -0.5rem;
+          opacity: 0.5;
+          margin-bottom: 1rem;
+        }
+        .cName {
+          margin-right: 16rem;
+          opacity: 0.8;
+        }
+        .nameInput{
+            margin-bottom: 2rem;
+            width: 25rem;
+            height: 2.5rem;
+        }
+        .industry {
+          margin-right: 20rem;
+          opacity: 0.8;
+        }
+        .SELECT{
+            margin-left: 2.5rem;
+            width: 25rem;
+            height: 2.5rem;
+            margin-bottom: 2rem;
+        }
+        .size {
+          margin-right: 17rem;
+          opacity: 0.8;
+        }
+        .BTNS{
+            .button{
+                font-size: small;
+                width: 4.6rem;
+                height: 2.5rem;
+            }
+        }
+        .SUBMIT{
+            margin-left: 2.5rem;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            margin-top: 2rem;
+            margin-bottom: 0.4rem;
+            width: 25rem;
+            height: 2.5rem;
+        }
+        
+      }
+    }
+  }
+
+  .footer{
+    margin-top: 1rem;
+    text-align: center;
+  }
+}
